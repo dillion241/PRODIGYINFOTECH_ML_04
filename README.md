@@ -2,7 +2,7 @@
 This project aims to develop a hand gesture recognition model using Convolutional Neural Networks (CNNs) for intuitive human-computer interaction and gesture-based control systems.
 # Hand Gesture Recognition using Convolutional Neural Networks
 
-![Gesture Recognition](https://github.com/dillion241/PRODIGYINFOTECH_ML_04/issues/1) <!-- Replace with an image related to your project -->
+![Gesture Recognition](https://github.com/dillion241/PRODIGYINFOTECH_ML_04/blob/main/24-Static-Hand-Gestures-for-American-Sign-Language-Letters-6.png) <!-- Replace with an image related to your project -->
 
 This project aims to develop a hand gesture recognition model using Convolutional Neural Networks (CNNs) for intuitive human-computer interaction and gesture-based control systems.
 
